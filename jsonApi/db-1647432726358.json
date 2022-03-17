@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "Abhishek",
+      "age": 22
+    },
+    {
+      "name": "Aman",
+      "age": 20
+    },
+    {
+      "name": "Ayush",
+      "age": 18
+    },
+    {
+      "name": "Yash",
+      "age": 16
+    },
+    {
+      "name": "Piyush",
+      "age": 14
+    },
+    {
+      "name": "Aryan",
+      "age": 10
+    },
+    {
+      "name": "Rahul",
+      "age": 7
+    },
+    {
+      "name": "Gaurav",
+      "age": 30
+    }
+  ]
+}
